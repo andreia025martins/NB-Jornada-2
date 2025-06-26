@@ -6,7 +6,7 @@ body{
 }
 
 header{
-    border-bottom: solid 3px rgb(42, 122, 228);
+    border-bottom: outset 3px rgb(42, 122, 228);
 }
 
 h1{
